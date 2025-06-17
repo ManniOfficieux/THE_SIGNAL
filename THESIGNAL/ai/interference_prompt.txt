@@ -1,0 +1,1 @@
+Génère un message codé, mystérieux, en 12 mots maximum.
