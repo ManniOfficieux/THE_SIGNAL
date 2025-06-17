@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from 'react';
 import UserStatus from './components/UserStatus';
 import TerminalWindow from './components/TerminalWindow';
