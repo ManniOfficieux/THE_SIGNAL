@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from 'react';
 
 export default function GlitchText({ children, className = "", intensity = "low" }) {

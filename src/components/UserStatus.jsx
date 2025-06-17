@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from 'react';
 import GlitchText from './GlitchText';
 import { calculateGrade, getNextGrade } from '../utils/gradeSystem';

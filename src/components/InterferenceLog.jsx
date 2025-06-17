@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from 'react';
 import TerminalWindow from './TerminalWindow';
 import GlitchText from './GlitchText';
